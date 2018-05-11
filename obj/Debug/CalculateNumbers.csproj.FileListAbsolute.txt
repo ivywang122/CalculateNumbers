@@ -1,0 +1,10 @@
+D:\projects\csharp\SideProjects\CalculateNumbers\bin\Debug\CalculateNumbers.exe.config
+D:\projects\csharp\SideProjects\CalculateNumbers\bin\Debug\CalculateNumbers.exe
+D:\projects\csharp\SideProjects\CalculateNumbers\bin\Debug\CalculateNumbers.pdb
+D:\projects\csharp\SideProjects\CalculateNumbers\obj\Debug\CalculateNumbers.csprojResolveAssemblyReference.cache
+D:\projects\csharp\SideProjects\CalculateNumbers\obj\Debug\CalculateNumbers.MainWindow.resources
+D:\projects\csharp\SideProjects\CalculateNumbers\obj\Debug\CalculateNumbers.Properties.Resources.resources
+D:\projects\csharp\SideProjects\CalculateNumbers\obj\Debug\CalculateNumbers.csproj.GenerateResource.cache
+D:\projects\csharp\SideProjects\CalculateNumbers\obj\Debug\CalculateNumbers.csproj.CoreCompileInputs.cache
+D:\projects\csharp\SideProjects\CalculateNumbers\obj\Debug\CalculateNumbers.exe
+D:\projects\csharp\SideProjects\CalculateNumbers\obj\Debug\CalculateNumbers.pdb
